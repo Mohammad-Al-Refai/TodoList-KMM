@@ -1,5 +1,9 @@
 ## Todo List using Kotlin Multiplatform
 
+## Architecture 
+
+<img width="2791" alt="MI+VMV" src="https://github.com/user-attachments/assets/26410552-e60a-4740-b968-2c5a62d402a1">
+
 ## Demo
 
 ### Android
